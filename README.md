@@ -1,4 +1,4 @@
-# Learning New Skills from Resume 
+## Learning New Skills from Resume 
 
 ## Quick Overview
 Usually hiring partners look for candidates with a set of skills. Parsing resumes and extracting information about the individual is a good start but learning new skills from resume is a potential game changer for any hiring organisation since skills keep evolving over time and very often candidates miss out to add skills relevant to their experience. So, automatically learning new skills is a win-win for both candidates and hiring team. 
@@ -29,9 +29,12 @@ The keys fields in annotated data are:
 * label - skills which are annotated in each resumes content
 
 ## Approach
-
+* Create annotated data using open source tool docanno for skills
+* Train spacy Named Entity Recognition for model training
+* Label skills in unseen data
 
 ## Credits
 
 * [Automatic Summarization of Resumes using Spacy](https://medium.com/@dataturks/automatic-summarization-of-resumes-with-ner-8b97a5f562b)
 * [Training NER models using Spacy](https://spacy.io/usage/training#ner)
+* [Resume NER Spacy](https://github.com/DataTurks-Engg/Entity-Recognition-In-Resumes-SpaCy)
