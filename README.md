@@ -11,13 +11,13 @@ We will now annotate our training data using open source tool [doccano](https://
 **Docanno Annotator**
 
 <p align="left">
-  <img width="460" height="300" src="images/annotator_1.png">
+  <img width="600" height="300" src="images/annotator_1.png">
 </p>
 
 **Annotating Data**
 
 <p align="left">
-  <img width="460" height="300" src="images/annotator_2.png">
+  <img width="600" height="300" src="images/annotator_2.png">
 </p>
 
 The keys fields in annotated data are:
